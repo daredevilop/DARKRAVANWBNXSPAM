@@ -9,7 +9,7 @@ START_BUTTON = [
     ],
     [
         Button.url("• CONTACT BOT •", "https://t.me/WEBNET_CONTACT_BOT"),
-        Button.url("• GROUP •", "https://t.me/WEB_NET_CHATMASTI")
+        Button.url("• GROUP •", "https://t.me/WBN_CHATMASTI")
     ],
     [
         Button.url("• NETWORK •", "https://t.me/THE_WEBNET_NETWORK")
